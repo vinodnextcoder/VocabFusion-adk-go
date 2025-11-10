@@ -93,9 +93,3 @@ agent, err := llmagent.New(llmagent.Config{
     },
 })
 ```
-
------
-
-This README is now focused on the *product* (`VocabFusion`) and *how to use it*, emphasizing the specific, constrained behavior you built.
-
-What next step would be most helpful for you?
